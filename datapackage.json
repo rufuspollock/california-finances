@@ -1,0 +1,99 @@
+{
+  "author": "California State Legislative Analyst's Office", 
+  "author_email": "", 
+  "download_url": "http://www.lao.ca.gov/sections/econ_fiscal/Historical_Expenditures_Source.xlsx", 
+  "extras": {}, 
+  "id": "0bfead81-e912-41c6-ac21-4478927d49bd", 
+  "license": "Open Data Commons Public Domain Dedication and Licence (PDDL)", 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "california-historical-budgetary-data", 
+  "notes": "Historical data on revenue and expenditure from California State Legislative Analyst's Office. Expenditure is provided for period from 1985 to the present. Revenue information is provided from 1951 to the present.\r\n\r\n### Data\r\n\r\nNote the disclaimer on the website:\r\n\r\n> Because of many changes over the years (including, but not limited to, changes in the sources of funding for certain state programs, deferrals of scheduled payments and tax collections, and other accounting changes), this data may not provide sufficient information to evaluate trends in general state spending, spending for particular programs, or state revenues. Consulting other sources, such as the LAO's annual Spending Plan publications, is advised when conducting such trend analyses.", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": "", 
+      "created": "2012-08-21T17:07:47.625843", 
+      "description": "", 
+      "format": "xlsx", 
+      "hash": "", 
+      "id": "5a1c6490-49d6-4083-a52e-5c334b297f55", 
+      "last_modified": "2012-08-21T17:07:51.132140", 
+      "mimetype": "application/vnd.ms-excel.12", 
+      "mimetype_inner": "", 
+      "name": "State of California Expenditures, 1984-85 to 2011-12 ", 
+      "package_id": "0bfead81-e912-41c6-ac21-4478927d49bd", 
+      "position": 0, 
+      "resource_group_id": "eaf30ab3-e63f-4668-b921-d8418c8cef86", 
+      "resource_type": "file", 
+      "size": "3771201", 
+      "tracking_summary": {
+        "recent": 0, 
+        "total": 0
+      }, 
+      "url": "http://www.lao.ca.gov/sections/econ_fiscal/Historical_Expenditures_Source.xlsx", 
+      "webstore_last_updated": null, 
+      "webstore_url": ""
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2012-08-21T17:10:56.623347", 
+      "description": "", 
+      "format": "xlsx", 
+      "hash": "", 
+      "id": "57bdc1d1-fb31-439b-9c63-0d39629775ef", 
+      "last_modified": "2012-08-21T17:10:57.169445", 
+      "mimetype": "application/vnd.ms-excel.12", 
+      "mimetype_inner": "", 
+      "name": "State of California Revenues, 1950-51 to 2011-12 ", 
+      "package_id": "0bfead81-e912-41c6-ac21-4478927d49bd", 
+      "position": 1, 
+      "resource_group_id": "eaf30ab3-e63f-4668-b921-d8418c8cef86", 
+      "resource_type": "file", 
+      "size": "209399", 
+      "tracking_summary": {
+        "recent": 0, 
+        "total": 0
+      }, 
+      "url": "http://www.lao.ca.gov/sections/econ_fiscal/Historical_Revenues.xlsx", 
+      "webstore_last_updated": null, 
+      "webstore_url": null
+    }, 
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2012-08-21T17:10:56.623379", 
+      "description": "", 
+      "format": "xls", 
+      "hash": "5c6480bb5a7d5481b1ff2fbfc35aa0156038015e", 
+      "id": "114282eb-225c-423e-98c9-bc13ad1a4f43", 
+      "last_modified": "2012-08-21T17:10:59.976710", 
+      "mimetype": "application/vnd.ms-excel", 
+      "mimetype_inner": "", 
+      "name": "State of California Personnel-Years, 1982-83 to 2006-07 ", 
+      "package_id": "0bfead81-e912-41c6-ac21-4478927d49bd", 
+      "position": 2, 
+      "resource_group_id": "eaf30ab3-e63f-4668-b921-d8418c8cef86", 
+      "resource_type": "file", 
+      "size": "1169920", 
+      "tracking_summary": {
+        "recent": 0, 
+        "total": 0
+      }, 
+      "url": "http://www.lao.ca.gov/sections/econ_fiscal/Historical_Personnel_Years.xls", 
+      "webstore_last_updated": "2012-08-21T17:13:02.014881", 
+      "webstore_url": "active"
+    }
+  ], 
+  "tags": [
+    "budget", 
+    "california", 
+    "country.us", 
+    "spending"
+  ], 
+  "title": "California Historical Budgetary Data", 
+  "url": "http://www.lao.ca.gov/laoapp/LAOMenus/lao_menu_economics.aspx", 
+  "version": ""
+}
